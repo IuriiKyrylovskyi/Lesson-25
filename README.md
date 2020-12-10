@@ -1,6 +1,6 @@
 Price product template 
 
-https://iuriikyrylovskyi.github.io/Lesson-25
+https://iuriikyrylovskyi.github.io/Price-page/
 
 Layout supports all mobile and desktop versions
 
