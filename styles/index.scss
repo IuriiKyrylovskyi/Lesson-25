@@ -1,27 +1,12 @@
 @import "variables";
-@import "mixins";
 @import "null";
-
-//<Подключаем шрифты>=========================================================
-
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap");
-//</ОБНУЛЕНИЕ, ОБЩИЕ ПАРАМЕТРЫ>==============================================
 body {
 	font-weight: 300;
 	font-size: 15px;
 	color: #ffffff;
 	background-color: #141b1c;
 }
-//<ОБОЛОЧКА>========================================
-// .wrapper {
-// 	width: 100%;
-// 	min-height: 100%;
-// 	overflow: hidden;
-// 	display: flex;
-// 	flex-direction: column;
-// }
-
-//</ОБОЛОЧКА>==================================================================
 .wrapper {
 	width: 100%;
 	min-height: 100vh;
@@ -29,12 +14,8 @@ body {
 	flex-wrap: wrap;
 	justify-content: center;
 	align-items: center;
-	// padding: 105px 10px;
 	overflow-x: auto;
 }
-
-//</ОСНОВНАЯ СЕТКА>=============================================
-
 .price-card {
 	width: 380px;
 	height: 770px;
@@ -151,5 +132,3 @@ body {
 		cursor: pointer;
 	}
 }
-
-//</ОСНОВНОЙ БЛОК>=============================================================
