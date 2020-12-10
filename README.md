@@ -1,6 +1,6 @@
 Price product template 
 
-https://iuriikyrylovskyi.github.io/Price-page/
+https://iuriikyrylovskyi.github.io/Price-card-page-
 
 Layout supports all mobile and desktop versions
 
